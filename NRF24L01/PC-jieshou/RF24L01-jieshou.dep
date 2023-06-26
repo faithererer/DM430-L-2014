@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>3807154894</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\msp430x14x.h</file>
+      <file>$PROJ_DIR$\RF-jieshou.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\RF-jieshou.r43</file>
+      <file>$PROJ_DIR$\Debug\Exe\RF24L01-jieshou.d43</file>
+      <file>$PROJ_DIR$\Config.h</file>
+      <file>$TOOLKIT_DIR$\config\lnk430F149.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\config\multiplier.xcl</file>
+      <file>$TOOLKIT_DIR$\lib\clib\cl430f.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\RF-jieshou.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\RF24L01-jieshou.pbd</file>
+      <file>$PROJ_DIR$\Debug\Exe\RF24L01-jieshou.txt</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\RF-jieshou.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 2</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0 12 6 4</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 0 12 6 4</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\RF24L01-jieshou.d43</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 5 7 2 8</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\RF24L01-jieshou.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 11 3</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[REBUILD_ALL]</name>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\DM430-L 2.8TFT_1.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\DM430-L 2.8TFT_2\DM430-L 2.8TFT_2.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\DM430-L 2.8TFT_3\DM430-L 2.8TFT_3.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+

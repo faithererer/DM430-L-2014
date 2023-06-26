@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1221</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>107</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <ShowCodeCoverage>0</ShowCodeCoverage><ShowInstrProfiling>0</ShowInstrProfiling></Disassembly>
+    </Static>
+    <Windows>
+      
+      
+      
+    <Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-5967-31008</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-5444-31018</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-16715-31011</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws&gt;</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-27463-31015</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd5></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\2.8TFT_Touch_Key\main.c</Filename><XPos>0</XPos><YPos>29</YPos><SelStart>1514</SelStart><SelEnd>1514</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\2.8TFT_Touch_Key\GUI.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>6356</SelStart><SelEnd>6356</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\2.8TFT_Touch_Key\Touch.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>19</SelStart><SelEnd>19</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\2.8TFT_Touch_Key\Config.h</Filename><XPos>0</XPos><YPos>3</YPos><SelStart>414</SelStart><SelEnd>552</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\2.8TFT_Touch_Key\GB2424.h</Filename><XPos>0</XPos><YPos>100</YPos><SelStart>5984</SelStart><SelEnd>5984</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\2.8TFT_Touch_Key\TFT28.C</Filename><XPos>0</XPos><YPos>258</YPos><SelStart>8625</SelStart><SelEnd>8625</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\2.8TFT_Touch_Key\Touch.c</Filename><XPos>0</XPos><YPos>74</YPos><SelStart>4583</SelStart><SelEnd>4583</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\2.8TFT_Touch_Key\GB2435.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>672</SelStart><SelEnd>672</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\2.8TFT_Touch_Key\Key_Dec.c</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>664</SelStart><SelEnd>664</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\2.8TFT_H_Show\main.c</Filename><XPos>0</XPos><YPos>57</YPos><SelStart>2403</SelStart><SelEnd>2403</SelEnd></Tab><ActiveTab>9</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01465ba8><key>iaridepm.enu1</key></Toolbar-01465ba8></Sizes></Row0><Row1><Sizes><Toolbar-09d54178><key>debuggergui.enu1</key></Toolbar-09d54178></Sizes></Row1><Row2><Sizes><Toolbar-09d54008><key>430fet1</key></Toolbar-09d54008></Sizes></Row2></Top><Left><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>397</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>291121</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>580786</sizeVertCY></Rect></Wnd4></Sizes></Row0></Left><Right><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>397</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>291121</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>580786</sizeVertCY></Rect></Wnd5></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>200</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>291121</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>291121</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

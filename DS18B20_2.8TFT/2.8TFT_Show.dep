@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2856630788</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$TOOLKIT_DIR$\config\lnk430F149.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\Config.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\2.8TFT_Show.txt</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+      <file>$PROJ_DIR$\Ascii_8x16.h</file>
+      <file>$PROJ_DIR$\TFT28.C</file>
+      <file>$PROJ_DIR$\GB2424.h</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$TOOLKIT_DIR$\config\multiplier.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\msp430x14x.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\2.8TFT_Show.d43</file>
+      <file>$PROJ_DIR$\Chinese.h</file>
+      <file>$PROJ_DIR$\TFT28.h</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\2.pbd</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 4 13</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\2.8TFT_Show.d43</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 1 11 5 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 10 2 3 7 9 14 15 8</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 12 10 2 3 7 9 14 15 8</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\2.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 0</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

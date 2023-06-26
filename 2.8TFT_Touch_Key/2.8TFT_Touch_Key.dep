@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2856630788</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xtgmath.h</file>
+      <file>$PROJ_DIR$\Touch.H</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\config\multiplier.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Config.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$TOOLKIT_DIR$\config\lnk430F149.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\TFT28.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ymath.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\2.8TFT_Touch_Key.txt</file>
+      <file>$TOOLKIT_DIR$\inc\msp430x14x.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Chinese.h</file>
+      <file>$PROJ_DIR$\Touch.c</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\Key_Dec.c</file>
+      <file>$PROJ_DIR$\GUI.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\2.pbd</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\math.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$PROJ_DIR$\GB2424.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\2.8TFT_Touch_Key.d43</file>
+      <file>$PROJ_DIR$\Ascii_8x16.h</file>
+      <file>$PROJ_DIR$\TFT28.C</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.h</file>
+      <file>$PROJ_DIR$\GUI.c</file>
+      <file>$PROJ_DIR$\GB2435.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 13 28</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 26 18 6 20 29 27 16 33 1 17 10 30 32 24 11 12 3 22 15 5 9 0 19</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 14 26 18 6 20 29 27 16 33 1 17 10 30 32 24 11 12 3 22 31 15 5 9 0 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\2.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\2.8TFT_Touch_Key.d43</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 8 4 21 25</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

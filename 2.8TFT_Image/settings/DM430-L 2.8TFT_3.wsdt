@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>DM430-L 2.8TFT_3/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>213</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-12030-9802</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>DM430-L 2.8TFT_3</ExpandedNode><ExpandedNode>DM430-L 2.8TFT_3/main.c</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-1574-9998</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Embedded Workbench 6.0 Evaluation\430\doc\infocenter\index.ENU.html</Filename></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>54</YPos><SelStart>98</SelStart><SelEnd>98</SelEnd></Tab><ActiveTab>1</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\qqpic.h</Filename><XPos>0</XPos><YPos>390</YPos><SelStart>6</SelStart><SelEnd>6</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\TFT28.C</Filename><XPos>0</XPos><YPos>279</YPos><SelStart>1648</SelStart><SelEnd>1648</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Config.h</Filename><XPos>0</XPos><YPos>54</YPos><SelStart>473</SelStart><SelEnd>473</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01465758><key>iaridepm.enu1</key></Toolbar-01465758></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>233</Bottom><Right>287</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>210084</sizeHorzCX><sizeHorzCY>421053</sizeHorzCY><sizeVertCX>303571</sizeVertCX><sizeVertCY>494737</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>954</Right><x>-2</x><y>-2</y><xscreen>956</xscreen><yscreen>200</yscreen><sizeHorzCX>1004202</sizeHorzCX><sizeHorzCY>421053</sizeHorzCY><sizeVertCX>210084</sizeVertCX><sizeVertCY>421053</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

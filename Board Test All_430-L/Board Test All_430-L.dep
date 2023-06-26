@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2227449751</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ymath.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xtgmath.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+      <file>$PROJ_DIR$\Touch.H</file>
+      <file>$PROJ_DIR$\Touch.C</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Ascii_8x16.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\math.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\Board Test All_430-L.txt</file>
+      <file>$PROJ_DIR$\MMC.c</file>
+      <file>$PROJ_DIR$\Debug\Exe\Board Test All_430-L.d43</file>
+      <file>$PROJ_DIR$\TestNoLCD.h</file>
+      <file>$PROJ_DIR$\UART.h</file>
+      <file>$PROJ_DIR$\Chinese.h</file>
+      <file>$PROJ_DIR$\TFT28.h</file>
+      <file>$TOOLKIT_DIR$\config\multiplier.xcl</file>
+      <file>$PROJ_DIR$\LCD1602.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$PROJ_DIR$\MMC.h</file>
+      <file>$PROJ_DIR$\LED8.h</file>
+      <file>$PROJ_DIR$\GUI.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.h</file>
+      <file>$PROJ_DIR$\TFT28Show.h</file>
+      <file>$PROJ_DIR$\GUI.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+      <file>$PROJ_DIR$\18B20.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+      <file>$PROJ_DIR$\TestLCD.h</file>
+      <file>$TOOLKIT_DIR$\config\lnk430F149.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\Board Test All_430-L.pbd</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\SPI.c</file>
+      <file>$PROJ_DIR$\LCD12864.h</file>
+      <file>$PROJ_DIR$\GB2424.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\msp430x14x.h</file>
+      <file>$PROJ_DIR$\TFT28.C</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\Config.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 9 11</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\Board Test All_430-L.d43</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 31 16 27 42</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\Board Test All_430-L.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 27</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38 19 40 41 21 28 17 35 13 12 6 36 14 15 39 3 4 22 26 8 29 0 2 5 23 37 18 1 34 10 20 25 30</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 38 19 40 41 21 28 17 35 13 12 6 36 14 15 39 3 4 22 26 8 29 0 2 5 24 23 37 18 1 34 10 20 25 30</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

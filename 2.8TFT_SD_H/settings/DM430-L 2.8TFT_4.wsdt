@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    <CurrentConfigs>
+      <Project>DM430-L 2.8TFT_4/Debug</Project>
+      <Project>DM430-L 2.8TFT_5/Debug</Project>
+    </CurrentConfigs>
+    <CurrentProj>DM430-L 2.8TFT_5</CurrentProj>
+    <OverviewSelected>0</OverviewSelected>
+  </ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          <Column0>315</Column0>
+          <Column1>27</Column1>
+          <Column2>27</Column2>
+          <Column3>27</Column3>
+        </ColumnWidths>
+      </Workspace>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>915</ColumnWidth1>
+        <ColumnWidth2>244</ColumnWidth2>
+        <ColumnWidth3>61</ColumnWidth3>
+      </Build>
+    </Static>
+    <Windows>
+      <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-4156-2135</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              <NodeDict>
+                <ExpandedNode>DM430-L 2.8TFT_4</ExpandedNode>
+                <ExpandedNode>DM430-L 2.8TFT_4/Output</ExpandedNode>
+                <ExpandedNode>DM430-L 2.8TFT_4/main.c</ExpandedNode>
+                <ExpandedNode>DM430-L 2.8TFT_5</ExpandedNode>
+              </NodeDict>
+            </Session>
+          </Tab>
+        </Tabs>
+        <SelectedTab>0</SelectedTab>
+      </Wnd2>
+      <Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-24377-2370</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        <SelectedTab>0</SelectedTab>
+      </Wnd3>
+    </Windows>
+    <Editor>
+      <Pane>
+        <Tab>
+          <Factory>TextEditor</Factory>
+          <Filename>$WS_DIR$\..\Embedded Workbench 6.0 Evaluation\430\doc\infocenter\index.ENU.html</Filename>
+        </Tab>
+        <Tab>
+          <Factory>TextEditor</Factory>
+          <Filename>$WS_DIR$\..\DM430-L 2.8TFT_5\main.c</Filename>
+          <XPos>0</XPos>
+          <YPos>0</YPos>
+          <SelStart>635</SelStart>
+          <SelEnd>635</SelEnd>
+        </Tab>
+        <ActiveTab>1</ActiveTab>
+        <Tab>
+          <Factory>TextEditor</Factory>
+          <Filename>$WS_DIR$\..\DM430-L 2.8TFT_5\GUI.c</Filename>
+          <XPos>0</XPos>
+          <YPos>221</YPos>
+          <SelStart>7073</SelStart>
+          <SelEnd>7073</SelEnd>
+        </Tab>
+      </Pane>
+      <ActivePane>0</ActivePane>
+      <Sizes>
+        <Pane>
+          <X>1000000</X>
+          <Y>1000000</Y>
+        </Pane>
+      </Sizes>
+      <SplitMode>1</SplitMode>
+    </Editor>
+    <Positions>
+      <Top>
+        <Row0>
+          <Sizes>
+            <Toolbar-01465758>
+              <key>iaridepm.enu1</key>
+            </Toolbar-01465758>
+          </Sizes>
+        </Row0>
+      </Top>
+      <Left>
+        <Row0>
+          <Sizes>
+            <Wnd2>
+              <Rect>
+                <Top>-2</Top>
+                <Left>-2</Left>
+                <Bottom>233</Bottom>
+                <Right>389</Right>
+                <x>-2</x>
+                <y>-2</y>
+                <xscreen>200</xscreen>
+                <yscreen>200</yscreen>
+                <sizeHorzCX>210084</sizeHorzCX>
+                <sizeHorzCY>421053</sizeHorzCY>
+                <sizeVertCX>410714</sizeVertCX>
+                <sizeVertCY>494737</sizeVertCY>
+              </Rect>
+            </Wnd2>
+          </Sizes>
+        </Row0>
+      </Left>
+      <Right>
+        <Row0>
+          <Sizes/>
+        </Row0>
+      </Right>
+      <Bottom>
+        <Row0>
+          <Sizes>
+            <Wnd3>
+              <Rect>
+                <Top>-2</Top>
+                <Left>-2</Left>
+                <Bottom>198</Bottom>
+                <Right>954</Right>
+                <x>-2</x>
+                <y>-2</y>
+                <xscreen>956</xscreen>
+                <yscreen>200</yscreen>
+                <sizeHorzCX>1004202</sizeHorzCX>
+                <sizeHorzCY>421053</sizeHorzCY>
+                <sizeVertCX>210084</sizeVertCX>
+                <sizeVertCY>421053</sizeVertCY>
+              </Rect>
+            </Wnd3>
+          </Sizes>
+        </Row0>
+      </Bottom>
+      <Float>
+        <Sizes/>
+      </Float>
+    </Positions>
+  </Desktop>
+</Workspace>
+
+
